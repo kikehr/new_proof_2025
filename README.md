@@ -1,2 +1,3 @@
-# new_proof_2025
-new repository about python
+# introduction to data science using python 
+
+new repository about python 
