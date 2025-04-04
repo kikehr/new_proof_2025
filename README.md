@@ -13,5 +13,5 @@ Follow these steps to set up the project:
 cd new_proof_2025
 
 pip install -r requeriments.txt
-
+I hope you like my first readme that will be changed every week
 
